@@ -1,0 +1,13 @@
+asc_driving = 2.593937010612691
+asc_pt = -1.7439620051025448
+asc_walking = 0.013713756972451563
+beta_asc_driving_car_ownership = 0.09132884524769012
+beta_asc_pt_car_ownership = -0.009180009629860295
+beta_asc_walking_car_ownership = 97.24893032871778
+beta_car_ownership = -1.2941713203889186e-13
+beta_cycling_time = 8.82156286039501
+beta_driving_cost = 0.07612490702586328
+beta_driving_time = -10.677683487473038
+beta_pt_cost = 0.38457678833509223
+beta_pt_time = 3.544717340119613
+beta_walking_time = 2.089298898700589

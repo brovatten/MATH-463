@@ -1,0 +1,9 @@
+asc_driving = 2.3413776867599436
+asc_pt = -2.012809971015514
+asc_walking = 0.7930052470505009
+beta_cycling_time = 8.687490987722285
+beta_driving_cost = 0.07904101307479872
+beta_driving_time = -9.554773378584194
+beta_pt_cost = 0.3969700315633713
+beta_pt_time = 3.60496642366403
+beta_walking_time = 2.313968886384906
